@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TymionX
-- 👀 I’m interested in coding, learning new thing and stuff 
-- 🌱 I’m currently learning python, I plan also to learn C++, frontending and <s>how to get girlfiend</s>
-- 💞️ What I'm looking to collaborate on? Men, I just begginer, maybe AI stuff or something
-- 📫 How to reach me - idk yet
+- 👀 I’m interested in coding and learning new stuff on i guess any subject 
+- 🌱 I’m currently study Python, C++, frontending (Basics of HTML, CSS and JS) and PHP. Plan to study AT at the University 
+- 📫 How to reach me - My nick is tymion on discord 
 
 <!---
 TymionX/TymionX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
